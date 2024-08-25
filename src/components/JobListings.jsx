@@ -22,6 +22,9 @@ const JobListings = ({ isHome = false }) => {
     }
 
     fetchJobs()
+
+
+    
   }, [])
 
     // console.log(jobs);
